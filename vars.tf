@@ -1,3 +1,4 @@
 variable "instance_type" {}
-variable "id" {}
+variable "security" {}
 variable "name" {}
+variable "record" {}
