@@ -6,4 +6,3 @@ dev:
 prod:
 	 rm -rf .terraform
 	 terraform init -backend-config=env-prod/state.tfvars
-  	 terrafom
