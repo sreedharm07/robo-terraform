@@ -1,2 +1,2 @@
 variable "name" {}
-variable "id" {}
+variable "sequrity" {}
