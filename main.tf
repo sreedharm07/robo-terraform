@@ -1,5 +1,5 @@
 module "servers" {
-  for_each      = var.components
+  for_each      = var.name
 
 
   source            = "git::https://github.com/sreedharm07/terraform-module.git"

@@ -1,3 +1,3 @@
 variable "instance_type" {}
 variable "id" {}
-variable "components" {}
+variable "name" {}
